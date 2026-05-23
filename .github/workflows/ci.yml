@@ -28,4 +28,4 @@ jobs:
  
       - name: Deploy para AWS
         run:
-          aws s3 sync ./app s3://sandbox-devops-145554226415-us-east-2-an --delete --exact-timestamps
+          aws s3 sync s3://sandbox-devops-145554226415-us-east-2-an --delete --exact-timestamps

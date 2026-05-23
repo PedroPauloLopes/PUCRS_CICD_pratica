@@ -1,0 +1,24 @@
+{
+  "name": "pucrs_cicd_pratica",
+  "version": "1.0.0",
+  "description": "Repositório para a matéria DevOps na Prática da PUCRS",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroPauloLopes/PUCRS_CICD_pratica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PedroPauloLopes/PUCRS_CICD_pratica/issues"
+  },
+  "homepage": "https://github.com/PedroPauloLopes/PUCRS_CICD_pratica#readme"
+}
